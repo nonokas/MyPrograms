@@ -1,0 +1,9 @@
+upload  -   <Musica; Autor; Género; Ano de lançamento; duração em s>
+delete  -   <musica>
+view    -   <musica>
+music   -   <a> todas as musicas da jukebox
+            <i> ; <autor>   todas as musicas de um intérprete
+            <g> ; <genero>  todas as musicas de um dado Género
+            <p>   musicas que pertencem a mais playlists
+            <t>   musicas que pertencem ao top 3 das mais tocadas
+create  -   <n> ; <nome da lista> ; <nomes da musicas de 0 a n>  cria playlist com n musicas

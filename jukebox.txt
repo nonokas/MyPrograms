@@ -1,0 +1,91 @@
+Minha Casinha
+Ze das Iscas
+Pimba
+1970
+250
+0
+*
+Dunas
+Ze dos Anzois
+Heavy Metal
+1989
+250
+10
+*
+Gato Preto
+Patanisca
+Pimba
+1986
+250
+0
+*
+Rocking
+Croquete
+Rock
+1992
+250
+4
+*
+A Gaivota
+Patanisca
+Fado
+2005
+250
+7
+*
+Po de Arroz
+Patanisca
+Balada
+2020
+250
+6
+*
+N' America
+Xutos & Pontapes
+Rock
+1987
+150
+4
+*
+Me Gusta
+Anitta
+Pop
+2020
+180
+16
+*
+Wonder
+Shaw Mendes
+Pop
+2020
+169
+28
+*
+O Nosso Amor
+Soraia Ramos & Calema
+Balada
+2020
+281
+13
+*
+Origins
+Imagine Dragons
+Pop
+2019
+190
+28
+*
+Bad Liar
+Imagine Dragons
+Pop
+2018
+260
+39
+*
+Guns
+Coldplay
+Pop
+2019
+118
+30
+*
